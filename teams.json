@@ -1,0 +1,58 @@
+[
+  {
+    "team_name": "Vidhansabha Team",
+    "team_addr": "Kaweshwar Kuti, Jamalapur",
+    "team_img": [
+      "https://i.imgur.com/Dph5wG8.jpg",
+      "https://i.imgur.com/IeQR69Y.jpg",
+      "https://i.imgur.com/U8xXeP6.jpg",
+      "https://i.imgur.com/wyDsodA.jpg",
+      "https://i.imgur.com/BzaWxEP.jpg",
+      "https://i.imgur.com/SpK8S77.jpg",
+      "https://i.imgur.com/cViLyEE.jpg",
+      "https://i.imgur.com/gB2FryM.jpg",
+      "https://imgur.com/WH6gMah.jpg",
+      "https://i.imgur.com/IjUNRlC.jpg",
+      "https://imgur.com/zAhfrbq.jpg",
+      "https://imgur.com/Uj3mSNH.jpg",
+      "https://imgur.com/22FoZNs.jpg",
+      "https://imgur.com/Mbwq1kz.jpg"
+    ]
+  },
+  {
+    "team_name": "Pali Zone team",
+    "team_addr": "Rajmalpur, Sheetalganj",
+    "team_img": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "team_name": "Ramnagar Zone team",
+    "team_addr": "Main Road, Jamalapur",
+    "team_img": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "team_name": "Rampur Zone team",
+    "team_addr": "Sapahi, Sehra",
+    "team_img": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "team_name": "Sureri Zone team",
+    "team_addr": "Jaisinghpur",
+    "team_img": [
+      "",
+      "",
+      ""
+    ]
+  }
+]
